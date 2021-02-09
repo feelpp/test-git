@@ -1,1 +1,3 @@
-bonjour
+bonjour CSMI
+
+ici on parle git
